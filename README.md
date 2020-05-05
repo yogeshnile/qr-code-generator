@@ -2,7 +2,7 @@
 In this repositories create a qr code using python
 
 ```sh
-pip install pyqr
+pip install pyqrcode
 ```
 
 ## Contributing
